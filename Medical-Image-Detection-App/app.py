@@ -1,4 +1,5 @@
 #import necessary modules
+pip install google-generativeai
 import streamlit as st
 from pathlib import Path
 import google.generativeai as genai
